@@ -43,3 +43,6 @@ print(basket)
 print(sorted(basket))
 #backet.sort() sorts list with modifying the given list     sorted(basket) creates new sorted list from given list
 
+new_list = "-".join(["creates", 'new', 'sorted', 'list', 'from', 'given', 'list'])
+print(new_list)
+#output will be creates-new-sorted-list-from-given-list
